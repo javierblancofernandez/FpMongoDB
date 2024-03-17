@@ -1,0 +1,1 @@
+db.clentes.find({email:"info@juan.com"})

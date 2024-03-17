@@ -1,0 +1,1 @@
+db.clentes.findOne({nombre:"javier"})

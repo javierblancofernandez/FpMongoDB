@@ -1,0 +1,1 @@
+db.clientes.find(); // como el select * de SQL
